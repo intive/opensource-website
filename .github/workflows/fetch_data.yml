@@ -27,4 +27,7 @@ jobs:
     - name: Fetch data
       run: |
         python scripts/fetch_repositories.py
+      env:
+        GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
 
