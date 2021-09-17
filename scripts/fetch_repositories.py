@@ -151,7 +151,7 @@ def write(data):
     current_path = Path(os.path.dirname(os.path.abspath(__file__)))
     json_file_path = current_path.parent / Path(DATA_PATH)
     with open(json_file_path, "w+") as file:
-        json.dump(data, file, indent=2)
+        json.dump(data, file, sort_keys=True, indent=2)
 
 
 repositories = fetch_repositories()
