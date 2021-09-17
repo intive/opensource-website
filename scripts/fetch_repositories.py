@@ -28,6 +28,7 @@ query ($endCursor: String) {
             edges {
               node {
                 name
+                color
               }
               size
             }
@@ -68,6 +69,7 @@ query ($endCursor: String) {
 class Language:
     name: str
     size: int
+    color: str
 
 
 @dataclass_json(letter_case=LetterCase.CAMEL)
@@ -96,7 +98,11 @@ class Repository:
 def parse_repository(repository_node):
     languages = []
     for language_edge in repository_node["languages"]['edges']:
-        language = Language(name=language_edge["node"]["name"], size=language_edge["size"])
+        language = Language(
+            name=language_edge["node"]["name"],
+            color=language_edge["node"]["color"],
+            size=language_edge["size"]
+        )
         languages.append(language)
     topics = []
     for topic_edge in repository_node["repositoryTopics"]["edges"]:
