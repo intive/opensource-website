@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Repositories on intive opensource</title>
-    <link>https://intive.github.io/opensource-website/repositories/</link>
+    <link>https://opensource.intive.com/repositories/</link>
     <description>Recent content in Repositories on intive opensource</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://intive.github.io/opensource-website/repositories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://opensource.intive.com/repositories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

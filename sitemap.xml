@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://intive.github.io/opensource-website/about/</loc>
+    <loc>https://opensource.intive.com/about/</loc>
   </url><url>
-    <loc>https://intive.github.io/opensource-website/categories/</loc>
+    <loc>https://opensource.intive.com/categories/</loc>
   </url><url>
-    <loc>https://intive.github.io/opensource-website/</loc>
+    <loc>https://opensource.intive.com/</loc>
   </url><url>
-    <loc>https://intive.github.io/opensource-website/repositories/</loc>
+    <loc>https://opensource.intive.com/repositories/</loc>
   </url><url>
-    <loc>https://intive.github.io/opensource-website/tags/</loc>
+    <loc>https://opensource.intive.com/tags/</loc>
   </url>
 </urlset>
