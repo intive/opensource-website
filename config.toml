@@ -1,0 +1,40 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'intive opensource'
+theme = "hugo-coder"
+
+[params]
+hideCredits = true
+hideCopyright = false
+author = "intive"
+colorScheme = "auto"
+since = 2021
+info = "Intive does open source."
+
+[[languages.en.menu.main]]
+name = "Repositories"
+weight = 1
+url = "repositories/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 2
+url = "about/"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-github"
+weight = 1
+url = "https://github.com/intive"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-twitter"
+weight = 2
+url = "https://github.com/intive"
+
+[[params.social]]
+name = "Medium"
+icon = "fa fa-medium"
+weight = 3
+url = "https://medium.com/intive-developers"

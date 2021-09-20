@@ -1,0 +1,24 @@
+{{ define "title" }}
+{{ title (i18n (lower .Title)) | default .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+<section class="container list">
+    <h1 class="title">
+        <a class="title-link" href="{{ .Permalink | safeURL }}">
+            {{ title (i18n (lower .Title)) | default .Title }}
+        </a>
+    </h1>
+    {{ .Content }}
+    <div class="repo-gird">
+        {{- range $.Site.Data.repositories -}}
+        <div class="repo-card">
+            <h4>{{- .name }}</h4>
+            {{ $language := .primaryLanguage}}
+            <div class="language-indicator" style="background-color: {{- $language.color}}"></div>
+            <p class="language">{{- $language.name }}</p>
+            <a class="github-link" href="https://github.com/{{- .nameWitOwner }}">github</a>
+        </div>
+        {{- end -}}
+    </div>
+</section>
+{{ end }}
