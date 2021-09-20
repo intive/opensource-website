@@ -10,6 +10,7 @@ author = "intive"
 colorScheme = "auto"
 since = 2021
 info = "Intive does open source."
+logo = "images/intive_logo_blue.svg"
 
 [[languages.en.menu.main]]
 name = "Repositories"
