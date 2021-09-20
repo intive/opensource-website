@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://intive.github.io/opensource-website/'
 languageCode = 'en-us'
 title = 'intive opensource'
 theme = "hugo-coder"
