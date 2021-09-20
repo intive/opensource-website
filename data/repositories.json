@@ -2490,15 +2490,40 @@
         "color": "#3572A5",
         "name": "Python",
         "size": 4455
+      },
+      {
+        "color": "#e34c26",
+        "name": "HTML",
+        "size": 27828
+      },
+      {
+        "color": "#427819",
+        "name": "Makefile",
+        "size": 252
+      },
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 1466
+      },
+      {
+        "color": "#c6538c",
+        "name": "SCSS",
+        "size": 22007
+      },
+      {
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 44306
       }
     ],
     "name": "opensource-website",
     "nameWitOwner": "intive/opensource-website",
     "primaryLanguage": {
-      "color": "#3572A5",
-      "name": "Python"
+      "color": "#563d7c",
+      "name": "CSS"
     },
-    "pushedAt": "2021-09-19T17:36:44Z",
+    "pushedAt": "2021-09-20T16:28:38Z",
     "starCount": 0,
     "topics": []
   }
