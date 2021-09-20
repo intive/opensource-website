@@ -9,7 +9,7 @@ hideCopyright = false
 author = "intive"
 colorScheme = "auto"
 since = 2021
-info = "Intive does open source."
+info = "open source is exciting!"
 logo = "images/intive_logo_blue.svg"
 
 [[languages.en.menu.main]]
