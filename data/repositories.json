@@ -2494,7 +2494,7 @@
       {
         "color": "#e34c26",
         "name": "HTML",
-        "size": 27828
+        "size": 27902
       },
       {
         "color": "#427819",
@@ -2509,7 +2509,7 @@
       {
         "color": "#c6538c",
         "name": "SCSS",
-        "size": 22007
+        "size": 22036
       },
       {
         "color": "#563d7c",
@@ -2523,8 +2523,8 @@
       "color": "#563d7c",
       "name": "CSS"
     },
-    "pushedAt": "2021-09-21T08:40:22Z",
-    "starCount": 1,
+    "pushedAt": "2021-09-21T09:07:28Z",
+    "starCount": 3,
     "topics": [
       {
         "name": "opensource",
