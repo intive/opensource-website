@@ -16,12 +16,14 @@
     </item>
     
     <item>
-      <title>Memberships</title>
+      <title>Partners &amp; Memberships</title>
       <link>https://opensource.intive.com/memberships/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://opensource.intive.com/memberships/</guid>
-      <description></description>
+      <description>Our partners and memberships who make open source exciting with us!
+W3C    The World Wide Web Consortium (W3C) is an international community where Member organizations , a full-time staff , and the public work together to develop Web standards.
+ https://www.w3.org   OWASP    The Open Web Application Security Project® (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.</description>
     </item>
     
   </channel>
