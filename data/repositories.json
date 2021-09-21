@@ -1,6 +1,6 @@
 [
   {
-    "descriptionHtml": "<div>BLStream Open Video Hub</div>",
+    "description": "BLStream Open Video Hub",
     "forkCount": 2,
     "homepageUrl": "blstream.com",
     "isPrivate": false,
@@ -27,7 +27,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Android Unit Testing Framework</div>",
+    "description": "Android Unit Testing Framework",
     "forkCount": 0,
     "homepageUrl": "http://pivotal.github.com/robolectric",
     "isPrivate": false,
@@ -59,7 +59,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>A server that accepts SMPP client connections.</div>",
+    "description": "A server that accepts SMPP client connections.",
     "forkCount": 1,
     "homepageUrl": "",
     "isPrivate": false,
@@ -81,7 +81,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>This is a repository that holds changes made to OpenVibe code by CENT developers from BLStream Ltd. Its purpose is to comply with LGPL v2.1 license of OpenVibe</div>",
+    "description": "This is a repository that holds changes made to OpenVibe code by CENT developers from BLStream Ltd. Its purpose is to comply with LGPL v2.1 license of OpenVibe",
     "forkCount": 0,
     "homepageUrl": "http://www.blstream.com/",
     "isPrivate": false,
@@ -113,7 +113,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Urban Game is a system (mobile and web applications) designed to support game organizer and contributors. It is made under Patronage 2013 Wroc\u0142aw Edition and licensed on Apache License 2.0. Check below link for details.</div>",
+    "description": "Urban Game is a system (mobile and web applications) designed to support game organizer and contributors. It is made under Patronage 2013 Wroc\u0142aw Edition and licensed on Apache License 2.0. Check below link for details.",
     "forkCount": 17,
     "homepageUrl": "http://blstream.github.com/UrbanGame/",
     "isPrivate": false,
@@ -129,7 +129,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Capture The Flag - Patronage 2013 Szczecin Geolocation game</div>",
+    "description": "Capture The Flag - Patronage 2013 Szczecin Geolocation game",
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -166,7 +166,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 16,
     "homepageUrl": null,
     "isPrivate": false,
@@ -203,7 +203,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Capture the Flag it\u2019s an urban game which is based on the idea that two opposing teams (e.g. red and blue) compete each other. Main objective is to capture other team's flag and bring it back to own base. This project brings it to another level and introduces it to virtual world, while players would still move in the real world. All players will be exploring the whole city (it doesn't matter what kind of city it is) with smartphones in their hands trying to locate other team's base and steal the flag.</div>",
+    "description": "Capture the Flag it\u2019s an urban game which is based on the idea that two opposing teams (e.g. red and blue) compete each other. Main objective is to capture other team's flag and bring it back to own base. This project brings it to another level and introduces it to virtual world, while players would still move in the real world. All players will be exploring the whole city (it doesn't matter what kind of city it is) with smartphones in their hands trying to locate other team's base and steal the flag.",
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -230,7 +230,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Patronage 2014 iOS application.</div>",
+    "description": "Patronage 2014 iOS application.",
     "forkCount": 0,
     "homepageUrl": "",
     "isPrivate": false,
@@ -262,7 +262,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -284,7 +284,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>myHoard Android</div>",
+    "description": "myHoard Android",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -316,7 +316,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>myHoard WP</div>",
+    "description": "myHoard WP",
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -353,7 +353,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>myHoard Python</div>",
+    "description": "myHoard Python",
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -375,7 +375,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>myHoard Java1</div>",
+    "description": "myHoard Java1",
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -402,7 +402,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>myHoard Java2</div>",
+    "description": "myHoard Java2",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -429,7 +429,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>myHoard QA</div>",
+    "description": "myHoard QA",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -442,7 +442,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>myHoard BA</div>",
+    "description": "myHoard BA",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -455,7 +455,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>myHoard UX</div>",
+    "description": "myHoard UX",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -468,7 +468,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -500,7 +500,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>BLS Augmented reality view controller for iOS, part of Patronage 2015 project.</div>",
+    "description": "BLS Augmented reality view controller for iOS, part of Patronage 2015 project.",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -542,7 +542,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -564,7 +564,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Artifacts generated from project BLStream-Fingerprint</div>",
+    "description": "Artifacts generated from project BLStream-Fingerprint",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -577,7 +577,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Patronage 2015 Augmented Szczecin iOS client.</div>",
+    "description": "Patronage 2015 Augmented Szczecin iOS client.",
     "forkCount": 2,
     "homepageUrl": null,
     "isPrivate": false,
@@ -619,7 +619,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 2,
     "homepageUrl": null,
     "isPrivate": false,
@@ -651,7 +651,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Augmented Szczecin Patronage 2015 WP client</div>",
+    "description": "Augmented Szczecin Patronage 2015 WP client",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -688,7 +688,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Patronage 2015 Szczecin Android Group Repo</div>",
+    "description": "Patronage 2015 Szczecin Android Group Repo",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -710,7 +710,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Augmented Szczecin Patronage 2015 HTML5 client</div>",
+    "description": "Augmented Szczecin Patronage 2015 HTML5 client",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -742,7 +742,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -769,7 +769,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Sbt plugin to search maven artifacts.</div>",
+    "description": "Sbt plugin to search maven artifacts.",
     "forkCount": 2,
     "homepageUrl": "",
     "isPrivate": false,
@@ -791,7 +791,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -818,7 +818,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -840,7 +840,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Urban Terror Arena</div>",
+    "description": "Urban Terror Arena",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -897,7 +897,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -934,7 +934,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>StudyBox for iOS - BLStream Patronage 2016 application</div>",
+    "description": "StudyBox for iOS - BLStream Patronage 2016 application",
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -971,7 +971,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>StudyBox for Android - BLStream Patronage 2016 application</div>",
+    "description": "StudyBox for Android - BLStream Patronage 2016 application",
     "forkCount": 2,
     "homepageUrl": null,
     "isPrivate": false,
@@ -993,7 +993,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>StudyBox Computer Vision Module - BLStream Patronage 2016 application</div>",
+    "description": "StudyBox Computer Vision Module - BLStream Patronage 2016 application",
     "forkCount": 2,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1030,7 +1030,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>StudyBox for Windows - BLStream Patronage 2016 application</div>",
+    "description": "StudyBox for Windows - BLStream Patronage 2016 application",
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1052,7 +1052,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>StudyBox Java Backend - BLStream Patronage 2016 application</div>",
+    "description": "StudyBox Java Backend - BLStream Patronage 2016 application",
     "forkCount": 4,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1079,7 +1079,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>StudyBox Web Front end - BLStream Patronage 2016 application</div>",
+    "description": "StudyBox Web Front end - BLStream Patronage 2016 application",
     "forkCount": 8,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1111,7 +1111,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>StudyBox Quality Assurance - BLStream Patronage 2016 application</div>",
+    "description": "StudyBox Quality Assurance - BLStream Patronage 2016 application",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1124,7 +1124,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1156,7 +1156,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>R.eal E.mpowerment  K.nowledge S.haring  I.nternal O.bjectives</div>",
+    "description": "R.eal E.mpowerment  K.nowledge S.haring  I.nternal O.bjectives",
     "forkCount": 1,
     "homepageUrl": "http://blstream.github.io/reks.io-api_docu/",
     "isPrivate": false,
@@ -1183,7 +1183,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>API specification for <a href=\"http://www.meetup.com/codespacepl/events/230167486/\" rel=\"nofollow\">http://www.meetup.com/codespacepl/events/230167486/</a> event. Check it in Swagger UI: <a href=\"http://blstream.github.io/domofon-api/\" rel=\"nofollow\">http://blstream.github.io/domofon-api/</a>\n</div>",
+    "description": "API specification for http://www.meetup.com/codespacepl/events/230167486/ event. Check it in Swagger UI: http://blstream.github.io/domofon-api/",
     "forkCount": 0,
     "homepageUrl": "",
     "isPrivate": false,
@@ -1215,7 +1215,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>iOS School 2nd edition graduation project</div>",
+    "description": "iOS School 2nd edition graduation project",
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1242,7 +1242,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>TCK tests, external server tester and mock server implementation for <a href=\"https://github.com/blstream/domofon-api\">https://github.com/blstream/domofon-api</a>\n</div>",
+    "description": "TCK tests, external server tester and mock server implementation for https://github.com/blstream/domofon-api",
     "forkCount": 2,
     "homepageUrl": "",
     "isPrivate": false,
@@ -1269,7 +1269,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1296,7 +1296,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1318,7 +1318,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Sample project to bootstrap Domofon API Server implementation using akka-http.</div>",
+    "description": "Sample project to bootstrap Domofon API Server implementation using akka-http.",
     "forkCount": 0,
     "homepageUrl": "",
     "isPrivate": false,
@@ -1345,7 +1345,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1367,7 +1367,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1380,7 +1380,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1412,7 +1412,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1425,7 +1425,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1467,7 +1467,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1480,7 +1480,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1493,7 +1493,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 2,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1515,7 +1515,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 2,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1547,7 +1547,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Patronage 2017 - Java backend system</div>",
+    "description": "Patronage 2017 - Java backend system",
     "forkCount": 2,
     "homepageUrl": "",
     "isPrivate": false,
@@ -1574,7 +1574,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 2,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1616,7 +1616,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1643,7 +1643,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1656,7 +1656,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 6,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1693,7 +1693,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1720,7 +1720,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>CSGOSpectator is an iOS application created during the intive Patronage '18</div>",
+    "description": "CSGOSpectator is an iOS application created during the intive Patronage '18",
     "forkCount": 0,
     "homepageUrl": "",
     "isPrivate": false,
@@ -1752,7 +1752,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Idea Box is an Android Application created during Intive Patronage '18 Project. Edit Add topics</div>",
+    "description": "Idea Box is an Android Application created during Intive Patronage '18 Project. Edit Add topics",
     "forkCount": 1,
     "homepageUrl": "",
     "isPrivate": false,
@@ -1774,7 +1774,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>ShopMe is a Web Application created during Intive Patronage '18 Project.</div>",
+    "description": "ShopMe is a Web Application created during Intive Patronage '18 Project.",
     "forkCount": 1,
     "homepageUrl": "",
     "isPrivate": false,
@@ -1801,7 +1801,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Shop Me is a Web Application created during Intive Patronage '18 Project. </div>",
+    "description": "Shop Me is a Web Application created during Intive Patronage '18 Project. ",
     "forkCount": 4,
     "homepageUrl": "",
     "isPrivate": false,
@@ -1833,7 +1833,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Shop Me is a Web Application created during Intive Patronage '18 Project.</div>",
+    "description": "Shop Me is a Web Application created during Intive Patronage '18 Project.",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1865,7 +1865,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>ShopMe infrastucture definition and automation.</div>",
+    "description": "ShopMe infrastucture definition and automation.",
     "forkCount": 0,
     "homepageUrl": "",
     "isPrivate": false,
@@ -1892,7 +1892,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Szczecin Android guild repository.</div>",
+    "description": "Szczecin Android guild repository.",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1905,7 +1905,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": "https://intive.github.io/patronage20-concept/",
     "isPrivate": false,
@@ -1927,7 +1927,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>The JS part of Patronage 2020 project</div>",
+    "description": "The JS part of Patronage 2020 project",
     "forkCount": 2,
     "homepageUrl": "https://patronage20-js-master.herokuapp.com/",
     "isPrivate": false,
@@ -1959,7 +1959,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -1986,7 +1986,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2033,7 +2033,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Patronage 2020 - test automation of .NET API</div>",
+    "description": "Patronage 2020 - test automation of .NET API",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2046,7 +2046,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Patronage 2020 system test automation of .NET app</div>",
+    "description": "Patronage 2020 system test automation of .NET app",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2068,7 +2068,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Patronage 2020 test automation of JS API</div>",
+    "description": "Patronage 2020 test automation of JS API",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2090,7 +2090,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Patronage 2020 system test automation of JS app</div>",
+    "description": "Patronage 2020 system test automation of JS app",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2112,7 +2112,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>Patronage 2020 test automation of embedded API</div>",
+    "description": "Patronage 2020 test automation of embedded API",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2149,7 +2149,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2162,7 +2162,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div>A Flutter plugin for the Adyen Payment Provider DropIn UI</div>",
+    "description": "A Flutter plugin for the Adyen Payment Provider DropIn UI",
     "forkCount": 5,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2209,7 +2209,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 2,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2236,7 +2236,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2258,7 +2258,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2290,7 +2290,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 1,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2312,7 +2312,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2344,7 +2344,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2376,7 +2376,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2403,7 +2403,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
@@ -2435,7 +2435,7 @@
     "topics": []
   },
   {
-    "descriptionHtml": "<div></div>",
+    "description": null,
     "forkCount": 0,
     "homepageUrl": "https://intive.github.io/react-stories/",
     "isPrivate": false,
@@ -2481,15 +2481,15 @@
     ]
   },
   {
-    "descriptionHtml": "<div>intive website about open source initiatives on GitHub</div>",
+    "description": "intive website about open source initiatives on GitHub",
     "forkCount": 0,
-    "homepageUrl": null,
+    "homepageUrl": "https://opensource.intive.com",
     "isPrivate": false,
     "languages": [
       {
         "color": "#3572A5",
         "name": "Python",
-        "size": 4455
+        "size": 4437
       },
       {
         "color": "#e34c26",
@@ -2523,8 +2523,13 @@
       "color": "#563d7c",
       "name": "CSS"
     },
-    "pushedAt": "2021-09-20T17:36:20Z",
+    "pushedAt": "2021-09-21T08:40:22Z",
     "starCount": 1,
-    "topics": []
+    "topics": [
+      {
+        "name": "opensource",
+        "url": "https://github.com/topics/opensource"
+      }
+    ]
   }
 ]
