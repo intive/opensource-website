@@ -18,9 +18,14 @@ weight = 1
 url = "repositories/"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "Blog"
 weight = 2
-url = "about/"
+url = "https://intive.com/insights/"
+
+[[languages.en.menu.main]]
+name = "Memberships"
+weight = 3
+url = "memberships/"
 
 [[params.social]]
 name = "Github"
@@ -29,13 +34,19 @@ weight = 1
 url = "https://github.com/intive"
 
 [[params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin"
+weight = 2
+url = "https://www.linkedin.com/company/intive/"
+
+[[params.social]]
 name = "Twitter"
 icon = "fa fa-twitter"
-weight = 2
-url = "https://github.com/intive"
+weight = 3
+url = "https://twitter.com/intive"
 
 [[params.social]]
 name = "Medium"
 icon = "fa fa-medium"
-weight = 3
+weight = 4
 url = "https://medium.com/intive-developers"
