@@ -18,7 +18,7 @@ query ($endCursor: String) {
     repositories(first: 100, after: $endCursor) {
       edges {
         node {
-          descriptionHTML
+          description
           forkCount
           homepageUrl
           isPrivate
@@ -82,7 +82,7 @@ class Topic:
 @dataclass_json(letter_case=LetterCase.CAMEL)
 @dataclass(frozen=True)
 class Repository:
-    description_html: str
+    description: str
     fork_count: int
     homepage_url: str
     is_private: bool
@@ -110,7 +110,7 @@ def parse_repository(repository_node):
         topics.append(topic)
 
     return Repository(
-        description_html=repository_node["descriptionHTML"],
+        description=repository_node["description"],
         fork_count=repository_node["forkCount"],
         homepage_url=repository_node["homepageUrl"],
         is_private=repository_node["isPrivate"],
