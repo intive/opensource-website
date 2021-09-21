@@ -1,6 +1,6 @@
 .repo-gird {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 20px;
   grid-auto-rows: minmax(100px, auto);
 }
@@ -24,4 +24,7 @@
 
 .github-link {
   float: right;
+}
+
+.description {
 }
