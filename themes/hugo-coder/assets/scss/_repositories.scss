@@ -1,17 +1,32 @@
 .repo-gird {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
   grid-auto-rows: minmax(100px, auto);
+  align-items: stretch;
 }
 .repo-card {
-  h3 {
+  h4 {
     margin: 25px 0;
   }
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   padding: 1em;
+
+  .links {
+    display: inline-block;
+    align-self: flex-end;;
+    float: right;
+  }
 }
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background: pink;
+    color: white;
+  }
+}
+
 .repo-card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
@@ -22,9 +37,16 @@
   height: 5px
 }
 
-.github-link {
-  float: right;
+.description {
 }
 
-.description {
+@mixin repo_card_dark {
+  .repo-card {
+    border: 1px solid #444;
+    box-shadow: none;
+    //background-color: #111;
+  }
+}
+body.colorscheme-dark {
+  @include repo_card_dark();
 }

@@ -17,7 +17,12 @@
             <p class="description">{{- .description | truncate 100 }}</p>
             <div class="language-indicator" style="background-color: {{- $language.color}}"></div>
             <p class="language">{{- $language.name }}</p>
-            <a class="github-link" href="https://github.com/{{- .nameWitOwner }}">github</a>
+            <div class="links">
+                {{ if .homepageUrl }}
+                <a class="github-link" href="{{- .homepageUrl }}">website</a>
+                {{ end }}
+                <a class="github-link" href="https://github.com/{{- .nameWitOwner }}">github</a>
+            </div>
         </div>
         {{- end -}}
     </div>
