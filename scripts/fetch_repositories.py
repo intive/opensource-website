@@ -9,7 +9,6 @@ from dataclasses_json import LetterCase, dataclass_json
 
 DATA_PATH = 'data/repositories.json'
 GITHUB_GRAPHQL_API = "https://api.github.com/graphql"
-GITHUB_USERNAME = os.environ["GITHUB_USERNAME"]
 GITHUB_API_TOKEN = os.environ["GITHUB_API_TOKEN"]
 
 QUERY = """
@@ -127,7 +126,8 @@ def parse_repository(repository_node):
 def fetch_page(query, end_cursor):
     variables = json.dumps({"endCursor": end_cursor})
     payload = {"query": query, "variables": variables}
-    response = requests.post(GITHUB_GRAPHQL_API, json=payload, auth=(GITHUB_USERNAME, GITHUB_API_TOKEN))
+    headers = {'Authorization': 'token ' + GITHUB_API_TOKEN}
+    response = requests.post(GITHUB_GRAPHQL_API, json=payload, headers=headers)
     response.raise_for_status()
     return response.json()
 
