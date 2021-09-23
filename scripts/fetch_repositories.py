@@ -161,8 +161,9 @@ def write(data):
 
 
 repositories = fetch_repositories()
-filtered_repositories = list(filter(lambda repo: not repo.is_private, repositories))
-encoded = Repository.schema().dump(filtered_repositories, many=True)
+filtered_repositories = filter(lambda repo: not repo.is_private, repositories)
+sorted_repositories = list(sorted(filtered_repositories, key=lambda repo: repo.pushed_at, reverse=True))
+encoded = Repository.schema().dump(sorted_repositories, many=True)
 write(encoded)
 
-print(f"Successfully fetched {len(filtered_repositories)} repositories.")
+print(f"Successfully fetched {len(sorted_repositories)} repositories.")
