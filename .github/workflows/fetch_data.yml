@@ -6,7 +6,7 @@ name: Fetch repositories
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '30 5,17 * * *'
+    - cron:  '0 5 * * 1'
 
 jobs:
   build:
