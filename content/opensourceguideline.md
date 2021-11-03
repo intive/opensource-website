@@ -33,7 +33,7 @@ Follow these steps to obtain legal approval and enter into a CLA on behalf of in
  2. If there’s no CLA already in place,  open a new Jira Ticket for Legal .
  3. Include details of the project you are contributing to, and add the CLA for approval, either as an attachment or a hyperlink, to the issue.
  4. Legal will review the CLA, requesting additional information where necessary, and approve.
- 5. If an email address and/or account is required to enter into the CLA, the `cla_managers`[at] `intive.com` email address should be used. Access to this Google Group can be requested and granted via the issue if required. 
+ 5. If an email address and/or account is required to enter into the CLA, the `cla_managers`[at] `intive.com` email address should be used. Access to this group can be requested and granted via the issue if required. 
  6. Once Legal have confirmed approval of the CLA in the issue, you can proceed to enter into the CLA (using the `cla_managers`[at] `intive.com` email if one is required) and begin contributing to the project.
 
 
