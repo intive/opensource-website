@@ -32,6 +32,11 @@ name = "Culture"
 weight = 4
 url = "https://intive.com/careers/cultureblog"
 
+[[languages.en.menu.main]]
+name = "Guideline"
+weight = 5
+url = "guideline"
+
 [[params.social]]
 name = "Github"
 icon = "fa fa-github"
