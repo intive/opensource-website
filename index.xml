@@ -16,6 +16,17 @@
     </item>
     
     <item>
+      <title>Open Source Guideline</title>
+      <link>https://opensource.intive.com/guideline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensource.intive.com/guideline/</guid>
+      <description>As a company, intive is dedicated to open source. Not only do we believe in it, but we use it, and we give back to it through contributions to open source projects.
+The purpose of this page is to document how an intiver can:
+ Create an open source project on behalf of intive Contribute to a third-party open source project on behalf of intive Use a third-party open source code in an intive project  General notes     Ensure mention intellectual property =&amp;gt; intive Code of Conduct.</description>
+    </item>
+    
+    <item>
       <title>Partners &amp; Memberships</title>
       <link>https://opensource.intive.com/memberships/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
