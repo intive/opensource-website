@@ -39,15 +39,10 @@ Follow these steps to obtain legal approval and enter into a CLA on behalf of in
 
 ### Contributing to a project on GitHub
 
-If your GitHub account’s primary email is not your @gitlab.com email, you can add it as an additional address. No need to create a separate account.
+If your GitHub account’s primary email is not your @intive.com email, you can add it as an additional address. No need to create a separate account.
 
 1. Fork the repository you want to contribute to into your account
-2. Follow the usual [pull request flow](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork). 
-
-### Contributing to a project on GitLab
-
-1. Fork the repository you want to contribute to into your account
-2. Follow the usual [merge request flow](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
+2. Follow the usual [pull request flow](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 
 
 ## Using open source libraries
