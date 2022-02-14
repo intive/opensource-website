@@ -2,27 +2,27 @@
   {
     "description": null,
     "forkCount": 0,
-    "homepageUrl": null,
+    "homepageUrl": "patronage22-poznan-js.vercel.app",
     "isPrivate": false,
     "languages": [
       {
-        "color": "#b07219",
-        "name": "Java",
-        "size": 6093
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 11388
       },
       {
-        "color": "#384d54",
-        "name": "Dockerfile",
-        "size": 345
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 2665
       }
     ],
-    "name": "patronage22-java-szczecin",
-    "nameWitOwner": "intive/patronage22-java-szczecin",
+    "name": "patronage22_poznan_js",
+    "nameWitOwner": "intive/patronage22_poznan_js",
     "primaryLanguage": {
-      "color": "#b07219",
-      "name": "Java"
+      "color": "#f1e05a",
+      "name": "JavaScript"
     },
-    "pushedAt": "2022-02-07T00:57:47Z",
+    "pushedAt": "2022-02-14T01:19:30Z",
     "starCount": 1,
     "topics": []
   },
@@ -35,7 +35,7 @@
       {
         "color": "#f1e05a",
         "name": "JavaScript",
-        "size": 13923
+        "size": 22633
       },
       {
         "color": "#563d7c",
@@ -49,50 +49,40 @@
       "color": "#f1e05a",
       "name": "JavaScript"
     },
-    "pushedAt": "2022-02-06T23:08:47Z",
+    "pushedAt": "2022-02-13T23:58:46Z",
     "starCount": 0,
     "topics": []
   },
   {
     "description": null,
-    "forkCount": 2,
+    "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
     "languages": [
       {
-        "color": "#89e051",
-        "name": "Shell",
-        "size": 70
+        "color": "#427819",
+        "name": "Makefile",
+        "size": 206
       },
       {
-        "color": "#e34c26",
-        "name": "HTML",
-        "size": 1725
+        "color": "#b07219",
+        "name": "Java",
+        "size": 9936
       },
       {
-        "color": "#2b7489",
-        "name": "TypeScript",
-        "size": 35002
-      },
-      {
-        "color": "#563d7c",
-        "name": "CSS",
-        "size": 402
-      },
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 474
+        "color": "#5B2063",
+        "name": "Gherkin",
+        "size": 242
       }
     ],
-    "name": "patronage22-bialystok-js-simple-jira",
-    "nameWitOwner": "intive/patronage22-bialystok-js-simple-jira",
+    "name": "patronage22_web_auto_szczecin",
+    "nameWitOwner": "intive/patronage22_web_auto_szczecin",
     "primaryLanguage": {
-      "color": "#2b7489",
-      "name": "TypeScript"
+      "color": "#b07219",
+      "name": "Java"
     },
-    "pushedAt": "2022-02-06T20:22:58Z",
-    "starCount": 1,
+    "pushedAt": "2022-02-13T23:26:53Z",
+    "starCount": 0,
     "topics": []
   },
   {
@@ -123,8 +113,50 @@
       "color": "#2b7489",
       "name": "TypeScript"
     },
-    "pushedAt": "2022-02-06T17:54:28Z",
-    "starCount": 2,
+    "pushedAt": "2022-02-13T22:24:18Z",
+    "starCount": 3,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 2,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#89e051",
+        "name": "Shell",
+        "size": 70
+      },
+      {
+        "color": "#e34c26",
+        "name": "HTML",
+        "size": 1725
+      },
+      {
+        "color": "#2b7489",
+        "name": "TypeScript",
+        "size": 50243
+      },
+      {
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 402
+      },
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 474
+      }
+    ],
+    "name": "patronage22-bialystok-js-simple-jira",
+    "nameWitOwner": "intive/patronage22-bialystok-js-simple-jira",
+    "primaryLanguage": {
+      "color": "#2b7489",
+      "name": "TypeScript"
+    },
+    "pushedAt": "2022-02-13T21:40:22Z",
+    "starCount": 1,
     "topics": []
   },
   {
@@ -134,56 +166,42 @@
     "isPrivate": false,
     "languages": [
       {
-        "color": "#427819",
-        "name": "Makefile",
-        "size": 206
-      },
-      {
         "color": "#b07219",
         "name": "Java",
-        "size": 9486
+        "size": 46160
       },
       {
-        "color": "#5B2063",
-        "name": "Gherkin",
-        "size": 119
+        "color": "#384d54",
+        "name": "Dockerfile",
+        "size": 717
+      },
+      {
+        "color": "#89e051",
+        "name": "Shell",
+        "size": 130
       }
     ],
-    "name": "patronage22_web_auto_szczecin",
-    "nameWitOwner": "intive/patronage22_web_auto_szczecin",
+    "name": "patronage22-java-szczecin",
+    "nameWitOwner": "intive/patronage22-java-szczecin",
     "primaryLanguage": {
       "color": "#b07219",
       "name": "Java"
     },
-    "pushedAt": "2022-02-06T16:05:01Z",
-    "starCount": 0,
+    "pushedAt": "2022-02-13T21:07:26Z",
+    "starCount": 1,
     "topics": []
   },
   {
     "description": null,
-    "forkCount": 0,
-    "homepageUrl": "patronage22-poznan-js.vercel.app",
+    "forkCount": 1,
+    "homepageUrl": null,
     "isPrivate": false,
-    "languages": [
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 4098
-      },
-      {
-        "color": "#563d7c",
-        "name": "CSS",
-        "size": 943
-      }
-    ],
-    "name": "patronage22_poznan_js",
-    "nameWitOwner": "intive/patronage22_poznan_js",
-    "primaryLanguage": {
-      "color": "#f1e05a",
-      "name": "JavaScript"
-    },
-    "pushedAt": "2022-02-06T15:40:26Z",
-    "starCount": 1,
+    "languages": [],
+    "name": "patronage22-eganortap",
+    "nameWitOwner": "intive/patronage22-eganortap",
+    "primaryLanguage": null,
+    "pushedAt": "2022-02-13T20:12:16Z",
+    "starCount": 0,
     "topics": []
   },
   {
@@ -204,7 +222,7 @@
       "color": "#178600",
       "name": "C#"
     },
-    "pushedAt": "2022-02-06T14:41:51Z",
+    "pushedAt": "2022-02-13T20:05:00Z",
     "starCount": 0,
     "topics": []
   },
@@ -217,17 +235,83 @@
       {
         "color": "#A97BFF",
         "name": "Kotlin",
-        "size": 8473
+        "size": 3994
       }
     ],
-    "name": "patronage22-android-szczecin",
-    "nameWitOwner": "intive/patronage22-android-szczecin",
+    "name": "patronage22-android-lublin",
+    "nameWitOwner": "intive/patronage22-android-lublin",
     "primaryLanguage": {
       "color": "#A97BFF",
       "name": "Kotlin"
     },
-    "pushedAt": "2022-02-06T07:52:29Z",
+    "pushedAt": "2022-02-13T19:31:00Z",
     "starCount": 2,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 0,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#A97BFF",
+        "name": "Kotlin",
+        "size": 1660
+      }
+    ],
+    "name": "patronage22_poznan_mobile",
+    "nameWitOwner": "intive/patronage22_poznan_mobile",
+    "primaryLanguage": {
+      "color": "#A97BFF",
+      "name": "Kotlin"
+    },
+    "pushedAt": "2022-02-13T15:54:10Z",
+    "starCount": 2,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 0,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#b07219",
+        "name": "Java",
+        "size": 2233
+      }
+    ],
+    "name": "patronage22_be_auto_szczecin",
+    "nameWitOwner": "intive/patronage22_be_auto_szczecin",
+    "primaryLanguage": {
+      "color": "#b07219",
+      "name": "Java"
+    },
+    "pushedAt": "2022-02-13T14:49:54Z",
+    "starCount": 0,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 0,
+    "homepageUrl": "https://intive.github.io/patronage20-concept/",
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 294
+      }
+    ],
+    "name": "patronage20-concept",
+    "nameWitOwner": "intive/patronage20-concept",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "pushedAt": "2022-02-13T02:22:54Z",
+    "starCount": 6,
     "topics": []
   },
   {
@@ -258,7 +342,7 @@
       "color": "#2b7489",
       "name": "TypeScript"
     },
-    "pushedAt": "2022-02-05T16:46:30Z",
+    "pushedAt": "2022-02-12T22:24:40Z",
     "starCount": 1,
     "topics": []
   },
@@ -271,17 +355,64 @@
       {
         "color": "#A97BFF",
         "name": "Kotlin",
-        "size": 1348
+        "size": 14464
       }
     ],
-    "name": "patronage22_poznan_mobile",
-    "nameWitOwner": "intive/patronage22_poznan_mobile",
+    "name": "patronage22-android-szczecin",
+    "nameWitOwner": "intive/patronage22-android-szczecin",
     "primaryLanguage": {
       "color": "#A97BFF",
       "name": "Kotlin"
     },
-    "pushedAt": "2022-02-05T11:44:11Z",
+    "pushedAt": "2022-02-12T13:05:20Z",
     "starCount": 2,
+    "topics": []
+  },
+  {
+    "description": "A Flutter plugin for the Adyen Payment Provider DropIn UI",
+    "forkCount": 10,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#A97BFF",
+        "name": "Kotlin",
+        "size": 19073
+      },
+      {
+        "color": "#701516",
+        "name": "Ruby",
+        "size": 3018
+      },
+      {
+        "color": "#89e051",
+        "name": "Shell",
+        "size": 793
+      },
+      {
+        "color": "#F05138",
+        "name": "Swift",
+        "size": 10752
+      },
+      {
+        "color": "#438eff",
+        "name": "Objective-C",
+        "size": 385
+      },
+      {
+        "color": "#00B4AB",
+        "name": "Dart",
+        "size": 4585
+      }
+    ],
+    "name": "adyen_flutter",
+    "nameWitOwner": "intive/adyen_flutter",
+    "primaryLanguage": {
+      "color": "#A97BFF",
+      "name": "Kotlin"
+    },
+    "pushedAt": "2022-02-11T17:11:25Z",
+    "starCount": 7,
     "topics": []
   },
   {
@@ -290,33 +421,33 @@
     "homepageUrl": null,
     "isPrivate": false,
     "languages": [],
-    "name": "patronage22-eganortap",
-    "nameWitOwner": "intive/patronage22-eganortap",
+    "name": "patronage22_lublin_js_api",
+    "nameWitOwner": "intive/patronage22_lublin_js_api",
     "primaryLanguage": null,
-    "pushedAt": "2022-02-04T11:17:50Z",
+    "pushedAt": "2022-02-09T13:37:06Z",
     "starCount": 0,
     "topics": []
   },
   {
-    "description": null,
+    "description": "Dart library to communicate with contentful and parse responses",
     "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
     "languages": [
       {
-        "color": "#A97BFF",
-        "name": "Kotlin",
-        "size": 1831
+        "color": "#00B4AB",
+        "name": "Dart",
+        "size": 11749
       }
     ],
-    "name": "patronage22-android-lublin",
-    "nameWitOwner": "intive/patronage22-android-lublin",
+    "name": "flutter_contentful",
+    "nameWitOwner": "intive/flutter_contentful",
     "primaryLanguage": {
-      "color": "#A97BFF",
-      "name": "Kotlin"
+      "color": "#00B4AB",
+      "name": "Dart"
     },
-    "pushedAt": "2022-02-04T11:17:01Z",
-    "starCount": 2,
+    "pushedAt": "2022-02-09T11:18:35Z",
+    "starCount": 0,
     "topics": []
   },
   {
@@ -342,7 +473,7 @@
       "color": "#e34c26",
       "name": "HTML"
     },
-    "pushedAt": "2022-02-04T10:50:42Z",
+    "pushedAt": "2022-02-07T08:05:21Z",
     "starCount": 0,
     "topics": []
   },
@@ -389,7 +520,7 @@
       "color": "#563d7c",
       "name": "CSS"
     },
-    "pushedAt": "2022-01-31T05:13:41Z",
+    "pushedAt": "2022-02-07T05:13:28Z",
     "starCount": 3,
     "topics": [
       {
@@ -397,53 +528,6 @@
         "url": "https://github.com/topics/opensource"
       }
     ]
-  },
-  {
-    "description": "A Flutter plugin for the Adyen Payment Provider DropIn UI",
-    "forkCount": 10,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#A97BFF",
-        "name": "Kotlin",
-        "size": 19073
-      },
-      {
-        "color": "#701516",
-        "name": "Ruby",
-        "size": 3018
-      },
-      {
-        "color": "#89e051",
-        "name": "Shell",
-        "size": 793
-      },
-      {
-        "color": "#F05138",
-        "name": "Swift",
-        "size": 10752
-      },
-      {
-        "color": "#438eff",
-        "name": "Objective-C",
-        "size": 385
-      },
-      {
-        "color": "#00B4AB",
-        "name": "Dart",
-        "size": 4585
-      }
-    ],
-    "name": "adyen_flutter",
-    "nameWitOwner": "intive/adyen_flutter",
-    "primaryLanguage": {
-      "color": "#A97BFF",
-      "name": "Kotlin"
-    },
-    "pushedAt": "2022-01-24T08:22:27Z",
-    "starCount": 7,
-    "topics": []
   },
   {
     "description": null,
@@ -474,63 +558,6 @@
       "name": "Java"
     },
     "pushedAt": "2022-01-23T20:27:53Z",
-    "starCount": 0,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": "https://intive.github.io/patronage20-concept/",
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 294
-      }
-    ],
-    "name": "patronage20-concept",
-    "nameWitOwner": "intive/patronage20-concept",
-    "primaryLanguage": {
-      "color": "#f1e05a",
-      "name": "JavaScript"
-    },
-    "pushedAt": "2022-01-22T10:46:32Z",
-    "starCount": 6,
-    "topics": []
-  },
-  {
-    "description": "Dart library to communicate with contentful and parse responses",
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#00B4AB",
-        "name": "Dart",
-        "size": 11749
-      }
-    ],
-    "name": "flutter_contentful",
-    "nameWitOwner": "intive/flutter_contentful",
-    "primaryLanguage": {
-      "color": "#00B4AB",
-      "name": "Dart"
-    },
-    "pushedAt": "2022-01-18T20:47:56Z",
-    "starCount": 0,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [],
-    "name": "patronage22_be_auto_szczecin",
-    "nameWitOwner": "intive/patronage22_be_auto_szczecin",
-    "primaryLanguage": null,
-    "pushedAt": "2022-01-11T11:58:33Z",
     "starCount": 0,
     "topics": []
   },
