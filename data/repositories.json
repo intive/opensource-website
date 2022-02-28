@@ -1,7 +1,7 @@
 [
   {
     "description": null,
-    "forkCount": 1,
+    "forkCount": 2,
     "homepageUrl": null,
     "isPrivate": false,
     "languages": [
@@ -13,12 +13,12 @@
       {
         "color": "#2b7489",
         "name": "TypeScript",
-        "size": 21502
+        "size": 25218
       },
       {
         "color": "#563d7c",
         "name": "CSS",
-        "size": 1462
+        "size": 1486
       }
     ],
     "name": "patronage22_lublin_js_cms",
@@ -27,7 +27,29 @@
       "color": "#2b7489",
       "name": "TypeScript"
     },
-    "pushedAt": "2022-02-21T02:01:26Z",
+    "pushedAt": "2022-02-28T03:08:55Z",
+    "starCount": 2,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 0,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#A97BFF",
+        "name": "Kotlin",
+        "size": 3713
+      }
+    ],
+    "name": "patronage22_poznan_mobile",
+    "nameWitOwner": "intive/patronage22_poznan_mobile",
+    "primaryLanguage": {
+      "color": "#A97BFF",
+      "name": "Kotlin"
+    },
+    "pushedAt": "2022-02-28T02:31:10Z",
     "starCount": 2,
     "topics": []
   },
@@ -40,12 +62,12 @@
       {
         "color": "#f1e05a",
         "name": "JavaScript",
-        "size": 11388
+        "size": 67045
       },
       {
         "color": "#563d7c",
         "name": "CSS",
-        "size": 2665
+        "size": 4955
       }
     ],
     "name": "patronage22_poznan_js",
@@ -54,7 +76,49 @@
       "color": "#f1e05a",
       "name": "JavaScript"
     },
-    "pushedAt": "2022-02-21T00:04:43Z",
+    "pushedAt": "2022-02-27T21:59:15Z",
+    "starCount": 1,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 2,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#89e051",
+        "name": "Shell",
+        "size": 70
+      },
+      {
+        "color": "#e34c26",
+        "name": "HTML",
+        "size": 1725
+      },
+      {
+        "color": "#2b7489",
+        "name": "TypeScript",
+        "size": 73982
+      },
+      {
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 402
+      },
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 74545
+      }
+    ],
+    "name": "patronage22-bialystok-js-simple-jira",
+    "nameWitOwner": "intive/patronage22-bialystok-js-simple-jira",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "pushedAt": "2022-02-27T21:38:47Z",
     "starCount": 1,
     "topics": []
   },
@@ -65,19 +129,78 @@
     "isPrivate": false,
     "languages": [
       {
-        "color": "#b07219",
-        "name": "Java",
-        "size": 57627
+        "color": "#427819",
+        "name": "Makefile",
+        "size": 206
       },
       {
-        "color": "#384d54",
-        "name": "Dockerfile",
-        "size": 359
+        "color": "#b07219",
+        "name": "Java",
+        "size": 12693
+      },
+      {
+        "color": "#5B2063",
+        "name": "Gherkin",
+        "size": 754
+      }
+    ],
+    "name": "patronage22_web_auto_szczecin",
+    "nameWitOwner": "intive/patronage22_web_auto_szczecin",
+    "primaryLanguage": {
+      "color": "#b07219",
+      "name": "Java"
+    },
+    "pushedAt": "2022-02-27T21:16:32Z",
+    "starCount": 0,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 1,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 2816
+      },
+      {
+        "color": "#2b7489",
+        "name": "TypeScript",
+        "size": 10561
+      },
+      {
+        "color": "#e34c26",
+        "name": "HTML",
+        "size": 393
+      }
+    ],
+    "name": "patronage22-web-wroclaw",
+    "nameWitOwner": "intive/patronage22-web-wroclaw",
+    "primaryLanguage": {
+      "color": "#2b7489",
+      "name": "TypeScript"
+    },
+    "pushedAt": "2022-02-27T20:04:21Z",
+    "starCount": 4,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 1,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#b07219",
+        "name": "Java",
+        "size": 91472
       },
       {
         "color": "#89e051",
         "name": "Shell",
-        "size": 1079
+        "size": 1098
       },
       {
         "color": "#C1F12E",
@@ -91,8 +214,70 @@
       "color": "#b07219",
       "name": "Java"
     },
-    "pushedAt": "2022-02-20T23:17:08Z",
+    "pushedAt": "2022-02-27T18:06:50Z",
     "starCount": 1,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 0,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [],
+    "name": "patronage22-qa-bialystok",
+    "nameWitOwner": "intive/patronage22-qa-bialystok",
+    "primaryLanguage": null,
+    "pushedAt": "2022-02-27T17:16:34Z",
+    "starCount": 0,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 0,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#A97BFF",
+        "name": "Kotlin",
+        "size": 7103
+      }
+    ],
+    "name": "patronage22-android-lublin",
+    "nameWitOwner": "intive/patronage22-android-lublin",
+    "primaryLanguage": {
+      "color": "#A97BFF",
+      "name": "Kotlin"
+    },
+    "pushedAt": "2022-02-27T15:20:03Z",
+    "starCount": 2,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 0,
+    "homepageUrl": "https://patronage22-szczecin-js.vercel.app/",
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 39733
+      },
+      {
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 146
+      }
+    ],
+    "name": "patronage22_szczecin_js",
+    "nameWitOwner": "intive/patronage22_szczecin_js",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "pushedAt": "2022-02-27T12:11:23Z",
+    "starCount": 0,
     "topics": []
   },
   {
@@ -133,122 +318,8 @@
       "color": "#178600",
       "name": "C#"
     },
-    "pushedAt": "2022-02-20T22:22:06Z",
+    "pushedAt": "2022-02-27T09:20:23Z",
     "starCount": 0,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 1,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [],
-    "name": "patronage22-eganortap",
-    "nameWitOwner": "intive/patronage22-eganortap",
-    "primaryLanguage": null,
-    "pushedAt": "2022-02-20T22:19:36Z",
-    "starCount": 0,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 1,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 2816
-      },
-      {
-        "color": "#2b7489",
-        "name": "TypeScript",
-        "size": 10561
-      },
-      {
-        "color": "#e34c26",
-        "name": "HTML",
-        "size": 393
-      }
-    ],
-    "name": "patronage22-web-wroclaw",
-    "nameWitOwner": "intive/patronage22-web-wroclaw",
-    "primaryLanguage": {
-      "color": "#2b7489",
-      "name": "TypeScript"
-    },
-    "pushedAt": "2022-02-20T22:08:55Z",
-    "starCount": 4,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": "https://patronage22-szczecin-js.vercel.app/",
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 30768
-      },
-      {
-        "color": "#563d7c",
-        "name": "CSS",
-        "size": 146
-      }
-    ],
-    "name": "patronage22_szczecin_js",
-    "nameWitOwner": "intive/patronage22_szczecin_js",
-    "primaryLanguage": {
-      "color": "#f1e05a",
-      "name": "JavaScript"
-    },
-    "pushedAt": "2022-02-20T18:31:50Z",
-    "starCount": 0,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 2,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#89e051",
-        "name": "Shell",
-        "size": 70
-      },
-      {
-        "color": "#e34c26",
-        "name": "HTML",
-        "size": 1725
-      },
-      {
-        "color": "#2b7489",
-        "name": "TypeScript",
-        "size": 58718
-      },
-      {
-        "color": "#563d7c",
-        "name": "CSS",
-        "size": 402
-      },
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 74545
-      }
-    ],
-    "name": "patronage22-bialystok-js-simple-jira",
-    "nameWitOwner": "intive/patronage22-bialystok-js-simple-jira",
-    "primaryLanguage": {
-      "color": "#f1e05a",
-      "name": "JavaScript"
-    },
-    "pushedAt": "2022-02-20T17:38:37Z",
-    "starCount": 1,
     "topics": []
   },
   {
@@ -265,12 +336,12 @@
       {
         "color": "#b07219",
         "name": "Java",
-        "size": 12901
+        "size": 14386
       },
       {
         "color": "#5B2063",
         "name": "Gherkin",
-        "size": 530
+        "size": 717
       }
     ],
     "name": "patronage22_mobile_auto_szczecin",
@@ -279,7 +350,20 @@
       "color": "#b07219",
       "name": "Java"
     },
-    "pushedAt": "2022-02-20T10:22:56Z",
+    "pushedAt": "2022-02-26T16:56:38Z",
+    "starCount": 0,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 1,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [],
+    "name": "patronage22-eganortap",
+    "nameWitOwner": "intive/patronage22-eganortap",
+    "primaryLanguage": null,
+    "pushedAt": "2022-02-26T16:00:53Z",
     "starCount": 0,
     "topics": []
   },
@@ -292,17 +376,39 @@
       {
         "color": "#A97BFF",
         "name": "Kotlin",
-        "size": 3214
+        "size": 17267
       }
     ],
-    "name": "patronage22_poznan_mobile",
-    "nameWitOwner": "intive/patronage22_poznan_mobile",
+    "name": "patronage22-android-szczecin",
+    "nameWitOwner": "intive/patronage22-android-szczecin",
     "primaryLanguage": {
       "color": "#A97BFF",
       "name": "Kotlin"
     },
-    "pushedAt": "2022-02-19T18:36:35Z",
+    "pushedAt": "2022-02-26T11:35:54Z",
     "starCount": 2,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 0,
+    "homepageUrl": "https://intive.github.io/patronage20-concept/",
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 294
+      }
+    ],
+    "name": "patronage20-concept",
+    "nameWitOwner": "intive/patronage20-concept",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "pushedAt": "2022-02-26T03:03:02Z",
+    "starCount": 6,
     "topics": []
   },
   {
@@ -314,7 +420,7 @@
       {
         "color": "#f1e05a",
         "name": "JavaScript",
-        "size": 14830
+        "size": 19917
       }
     ],
     "name": "patronage22_lublin_js_api",
@@ -323,98 +429,88 @@
       "color": "#f1e05a",
       "name": "JavaScript"
     },
-    "pushedAt": "2022-02-19T17:05:20Z",
-    "starCount": 1,
+    "pushedAt": "2022-02-25T10:20:27Z",
+    "starCount": 2,
     "topics": []
   },
   {
     "description": null,
-    "forkCount": 0,
+    "forkCount": 3,
     "homepageUrl": null,
     "isPrivate": false,
-    "languages": [],
-    "name": "patronage22-qa-bialystok",
-    "nameWitOwner": "intive/patronage22-qa-bialystok",
-    "primaryLanguage": null,
-    "pushedAt": "2022-02-19T13:51:03Z",
+    "languages": [
+      {
+        "color": "#e34c26",
+        "name": "HTML",
+        "size": 11250
+      },
+      {
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 694
+      }
+    ],
+    "name": "patronage22-qa-lublin",
+    "nameWitOwner": "intive/patronage22-qa-lublin",
+    "primaryLanguage": {
+      "color": "#e34c26",
+      "name": "HTML"
+    },
+    "pushedAt": "2022-02-23T17:35:20Z",
     "starCount": 0,
     "topics": []
   },
   {
-    "description": null,
+    "description": "intive website about open source initiatives on GitHub",
     "forkCount": 0,
-    "homepageUrl": null,
+    "homepageUrl": "https://opensource.intive.com",
     "isPrivate": false,
     "languages": [
       {
-        "color": "#A97BFF",
-        "name": "Kotlin",
-        "size": 3994
-      }
-    ],
-    "name": "patronage22-android-lublin",
-    "nameWitOwner": "intive/patronage22-android-lublin",
-    "primaryLanguage": {
-      "color": "#A97BFF",
-      "name": "Kotlin"
-    },
-    "pushedAt": "2022-02-18T16:39:12Z",
-    "starCount": 2,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
+        "color": "#3572A5",
+        "name": "Python",
+        "size": 4520
+      },
       {
-        "color": "#A97BFF",
-        "name": "Kotlin",
-        "size": 15420
-      }
-    ],
-    "name": "patronage22-android-szczecin",
-    "nameWitOwner": "intive/patronage22-android-szczecin",
-    "primaryLanguage": {
-      "color": "#A97BFF",
-      "name": "Kotlin"
-    },
-    "pushedAt": "2022-02-18T15:06:58Z",
-    "starCount": 2,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
+        "color": "#e34c26",
+        "name": "HTML",
+        "size": 28099
+      },
       {
         "color": "#427819",
         "name": "Makefile",
-        "size": 206
+        "size": 252
       },
       {
-        "color": "#b07219",
-        "name": "Java",
-        "size": 10427
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 1466
       },
       {
-        "color": "#5B2063",
-        "name": "Gherkin",
-        "size": 242
+        "color": "#c6538c",
+        "name": "SCSS",
+        "size": 22401
+      },
+      {
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 44306
       }
     ],
-    "name": "patronage22_web_auto_szczecin",
-    "nameWitOwner": "intive/patronage22_web_auto_szczecin",
+    "name": "opensource-website",
+    "nameWitOwner": "intive/opensource-website",
     "primaryLanguage": {
-      "color": "#b07219",
-      "name": "Java"
+      "color": "#563d7c",
+      "name": "CSS"
     },
-    "pushedAt": "2022-02-17T11:24:10Z",
-    "starCount": 0,
-    "topics": []
+    "pushedAt": "2022-02-21T05:14:41Z",
+    "starCount": 3,
+    "topics": [
+      {
+        "name": "opensource",
+        "url": "https://github.com/topics/opensource"
+      }
+    ]
   },
   {
     "description": "Dart library to communicate with contentful and parse responses",
@@ -482,60 +578,8 @@
       "name": "Kotlin"
     },
     "pushedAt": "2022-02-16T11:28:27Z",
-    "starCount": 7,
+    "starCount": 8,
     "topics": []
-  },
-  {
-    "description": "intive website about open source initiatives on GitHub",
-    "forkCount": 0,
-    "homepageUrl": "https://opensource.intive.com",
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#3572A5",
-        "name": "Python",
-        "size": 4520
-      },
-      {
-        "color": "#e34c26",
-        "name": "HTML",
-        "size": 28099
-      },
-      {
-        "color": "#427819",
-        "name": "Makefile",
-        "size": 252
-      },
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 1466
-      },
-      {
-        "color": "#c6538c",
-        "name": "SCSS",
-        "size": 22401
-      },
-      {
-        "color": "#563d7c",
-        "name": "CSS",
-        "size": 44306
-      }
-    ],
-    "name": "opensource-website",
-    "nameWitOwner": "intive/opensource-website",
-    "primaryLanguage": {
-      "color": "#563d7c",
-      "name": "CSS"
-    },
-    "pushedAt": "2022-02-14T05:14:22Z",
-    "starCount": 3,
-    "topics": [
-      {
-        "name": "opensource",
-        "url": "https://github.com/topics/opensource"
-      }
-    ]
   },
   {
     "description": null,
@@ -556,55 +600,6 @@
       "name": "Java"
     },
     "pushedAt": "2022-02-13T14:49:54Z",
-    "starCount": 0,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": "https://intive.github.io/patronage20-concept/",
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 294
-      }
-    ],
-    "name": "patronage20-concept",
-    "nameWitOwner": "intive/patronage20-concept",
-    "primaryLanguage": {
-      "color": "#f1e05a",
-      "name": "JavaScript"
-    },
-    "pushedAt": "2022-02-13T02:22:54Z",
-    "starCount": 6,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 1,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#e34c26",
-        "name": "HTML",
-        "size": 11250
-      },
-      {
-        "color": "#563d7c",
-        "name": "CSS",
-        "size": 694
-      }
-    ],
-    "name": "patronage22-qa-lublin",
-    "nameWitOwner": "intive/patronage22-qa-lublin",
-    "primaryLanguage": {
-      "color": "#e34c26",
-      "name": "HTML"
-    },
-    "pushedAt": "2022-02-07T08:05:21Z",
     "starCount": 0,
     "topics": []
   },
