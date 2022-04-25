@@ -8,7 +8,51 @@
       {
         "color": "#A97BFF",
         "name": "Kotlin",
-        "size": 75853
+        "size": 63332
+      }
+    ],
+    "name": "patronage22_poznan_mobile",
+    "nameWitOwner": "intive/patronage22_poznan_mobile",
+    "primaryLanguage": {
+      "color": "#A97BFF",
+      "name": "Kotlin"
+    },
+    "pushedAt": "2022-04-24T20:29:11Z",
+    "starCount": 2,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 0,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#A97BFF",
+        "name": "Kotlin",
+        "size": 22546
+      }
+    ],
+    "name": "patronage22-android-lublin",
+    "nameWitOwner": "intive/patronage22-android-lublin",
+    "primaryLanguage": {
+      "color": "#A97BFF",
+      "name": "Kotlin"
+    },
+    "pushedAt": "2022-04-24T19:24:14Z",
+    "starCount": 2,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 0,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#A97BFF",
+        "name": "Kotlin",
+        "size": 77940
       }
     ],
     "name": "patronage22-android-szczecin",
@@ -17,40 +61,35 @@
       "color": "#A97BFF",
       "name": "Kotlin"
     },
-    "pushedAt": "2022-04-16T17:34:27Z",
+    "pushedAt": "2022-04-24T19:24:08Z",
     "starCount": 2,
     "topics": []
   },
   {
     "description": null,
-    "forkCount": 1,
+    "forkCount": 0,
     "homepageUrl": null,
     "isPrivate": false,
     "languages": [
       {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 5252
-      },
-      {
         "color": "#2b7489",
         "name": "TypeScript",
-        "size": 74995
+        "size": 79520
       },
       {
-        "color": "#e34c26",
-        "name": "HTML",
-        "size": 393
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 2465
       }
     ],
-    "name": "patronage22-web-wroclaw",
-    "nameWitOwner": "intive/patronage22-web-wroclaw",
+    "name": "patronage22_lublin_js_frontend",
+    "nameWitOwner": "intive/patronage22_lublin_js_frontend",
     "primaryLanguage": {
       "color": "#2b7489",
       "name": "TypeScript"
     },
-    "pushedAt": "2022-04-16T17:33:42Z",
-    "starCount": 4,
+    "pushedAt": "2022-04-24T11:19:15Z",
+    "starCount": 2,
     "topics": []
   },
   {
@@ -67,7 +106,7 @@
       {
         "color": "#2b7489",
         "name": "TypeScript",
-        "size": 86228
+        "size": 93892
       },
       {
         "color": "#563d7c",
@@ -86,56 +125,7 @@
       "color": "#2b7489",
       "name": "TypeScript"
     },
-    "pushedAt": "2022-04-15T18:54:04Z",
-    "starCount": 2,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#2b7489",
-        "name": "TypeScript",
-        "size": 77460
-      },
-      {
-        "color": "#563d7c",
-        "name": "CSS",
-        "size": 2465
-      }
-    ],
-    "name": "patronage22_lublin_js_frontend",
-    "nameWitOwner": "intive/patronage22_lublin_js_frontend",
-    "primaryLanguage": {
-      "color": "#2b7489",
-      "name": "TypeScript"
-    },
-    "pushedAt": "2022-04-15T17:46:36Z",
-    "starCount": 2,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#A97BFF",
-        "name": "Kotlin",
-        "size": 19809
-      }
-    ],
-    "name": "patronage22-android-lublin",
-    "nameWitOwner": "intive/patronage22-android-lublin",
-    "primaryLanguage": {
-      "color": "#A97BFF",
-      "name": "Kotlin"
-    },
-    "pushedAt": "2022-04-15T14:45:42Z",
+    "pushedAt": "2022-04-23T11:49:45Z",
     "starCount": 2,
     "topics": []
   },
@@ -162,9 +152,115 @@
       "color": "#f1e05a",
       "name": "JavaScript"
     },
-    "pushedAt": "2022-04-14T20:15:30Z",
+    "pushedAt": "2022-04-22T21:51:44Z",
     "starCount": 1,
     "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 0,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 35093
+      }
+    ],
+    "name": "patronage22_lublin_js_api",
+    "nameWitOwner": "intive/patronage22_lublin_js_api",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "pushedAt": "2022-04-22T13:32:55Z",
+    "starCount": 2,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 1,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 5895
+      },
+      {
+        "color": "#2b7489",
+        "name": "TypeScript",
+        "size": 179477
+      },
+      {
+        "color": "#e34c26",
+        "name": "HTML",
+        "size": 392
+      }
+    ],
+    "name": "patronage22-web-wroclaw",
+    "nameWitOwner": "intive/patronage22-web-wroclaw",
+    "primaryLanguage": {
+      "color": "#2b7489",
+      "name": "TypeScript"
+    },
+    "pushedAt": "2022-04-21T15:31:02Z",
+    "starCount": 5,
+    "topics": []
+  },
+  {
+    "description": "intive website about open source initiatives on GitHub",
+    "forkCount": 0,
+    "homepageUrl": "https://opensource.intive.com",
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#3572A5",
+        "name": "Python",
+        "size": 4520
+      },
+      {
+        "color": "#e34c26",
+        "name": "HTML",
+        "size": 28099
+      },
+      {
+        "color": "#427819",
+        "name": "Makefile",
+        "size": 252
+      },
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 1466
+      },
+      {
+        "color": "#c6538c",
+        "name": "SCSS",
+        "size": 22401
+      },
+      {
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 44306
+      }
+    ],
+    "name": "opensource-website",
+    "nameWitOwner": "intive/opensource-website",
+    "primaryLanguage": {
+      "color": "#563d7c",
+      "name": "CSS"
+    },
+    "pushedAt": "2022-04-18T05:05:53Z",
+    "starCount": 3,
+    "topics": [
+      {
+        "name": "opensource",
+        "url": "https://github.com/topics/opensource"
+      }
+    ]
   },
   {
     "description": null,
@@ -191,50 +287,6 @@
     },
     "pushedAt": "2022-04-14T12:33:51Z",
     "starCount": 0,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 35093
-      }
-    ],
-    "name": "patronage22_lublin_js_api",
-    "nameWitOwner": "intive/patronage22_lublin_js_api",
-    "primaryLanguage": {
-      "color": "#f1e05a",
-      "name": "JavaScript"
-    },
-    "pushedAt": "2022-04-14T07:45:48Z",
-    "starCount": 2,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#A97BFF",
-        "name": "Kotlin",
-        "size": 47500
-      }
-    ],
-    "name": "patronage22_poznan_mobile",
-    "nameWitOwner": "intive/patronage22_poznan_mobile",
-    "primaryLanguage": {
-      "color": "#A97BFF",
-      "name": "Kotlin"
-    },
-    "pushedAt": "2022-04-13T18:45:03Z",
-    "starCount": 2,
     "topics": []
   },
   {
@@ -360,58 +412,6 @@
     "pushedAt": "2022-04-12T10:49:45Z",
     "starCount": 1,
     "topics": []
-  },
-  {
-    "description": "intive website about open source initiatives on GitHub",
-    "forkCount": 0,
-    "homepageUrl": "https://opensource.intive.com",
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#3572A5",
-        "name": "Python",
-        "size": 4520
-      },
-      {
-        "color": "#e34c26",
-        "name": "HTML",
-        "size": 28099
-      },
-      {
-        "color": "#427819",
-        "name": "Makefile",
-        "size": 252
-      },
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 1466
-      },
-      {
-        "color": "#c6538c",
-        "name": "SCSS",
-        "size": 22401
-      },
-      {
-        "color": "#563d7c",
-        "name": "CSS",
-        "size": 44306
-      }
-    ],
-    "name": "opensource-website",
-    "nameWitOwner": "intive/opensource-website",
-    "primaryLanguage": {
-      "color": "#563d7c",
-      "name": "CSS"
-    },
-    "pushedAt": "2022-04-11T05:05:00Z",
-    "starCount": 3,
-    "topics": [
-      {
-        "name": "opensource",
-        "url": "https://github.com/topics/opensource"
-      }
-    ]
   },
   {
     "description": null,
