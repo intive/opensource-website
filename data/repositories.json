@@ -42,7 +42,7 @@
       "color": "#563d7c",
       "name": "CSS"
     },
-    "pushedAt": "2022-10-24T05:32:20Z",
+    "pushedAt": "2022-10-31T05:14:40Z",
     "starCount": 3,
     "topics": [
       {
@@ -53,7 +53,7 @@
   },
   {
     "description": null,
-    "forkCount": 4,
+    "forkCount": 5,
     "homepageUrl": "patronage22-lublin-js-frontend.vercel.app",
     "isPrivate": false,
     "languages": [
