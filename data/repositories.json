@@ -1,24 +1,34 @@
 [
   {
     "description": null,
-    "forkCount": 0,
-    "homepageUrl": "https://intive.github.io/patronage20-concept/",
+    "forkCount": 3,
+    "homepageUrl": null,
     "isPrivate": false,
     "languages": [
       {
         "color": "#f1e05a",
         "name": "JavaScript",
-        "size": 294
+        "size": 5895
+      },
+      {
+        "color": "#3178c6",
+        "name": "TypeScript",
+        "size": 179477
+      },
+      {
+        "color": "#e34c26",
+        "name": "HTML",
+        "size": 392
       }
     ],
-    "name": "patronage20-concept",
-    "nameWitOwner": "intive/patronage20-concept",
+    "name": "patronage22-web-wroclaw",
+    "nameWitOwner": "intive/patronage22-web-wroclaw",
     "primaryLanguage": {
-      "color": "#f1e05a",
-      "name": "JavaScript"
+      "color": "#3178c6",
+      "name": "TypeScript"
     },
-    "pushedAt": "2022-12-30T19:44:45Z",
-    "starCount": 6,
+    "pushedAt": "2023-01-08T03:43:40Z",
+    "starCount": 5,
     "topics": []
   },
   {
@@ -44,8 +54,159 @@
       "color": "#f1e05a",
       "name": "JavaScript"
     },
-    "pushedAt": "2022-12-30T17:14:16Z",
+    "pushedAt": "2023-01-07T21:18:24Z",
     "starCount": 1,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 7,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#e34c26",
+        "name": "HTML",
+        "size": 1994
+      },
+      {
+        "color": "#3178c6",
+        "name": "TypeScript",
+        "size": 94275
+      },
+      {
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 2554
+      },
+      {
+        "color": "#89e051",
+        "name": "Shell",
+        "size": 55
+      }
+    ],
+    "name": "patronage22_lublin_js_cms",
+    "nameWitOwner": "intive/patronage22_lublin_js_cms",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "pushedAt": "2023-01-07T20:44:05Z",
+    "starCount": 2,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 3,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#89e051",
+        "name": "Shell",
+        "size": 85
+      },
+      {
+        "color": "#e34c26",
+        "name": "HTML",
+        "size": 1725
+      },
+      {
+        "color": "#3178c6",
+        "name": "TypeScript",
+        "size": 135695
+      },
+      {
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 402
+      },
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 75905
+      }
+    ],
+    "name": "patronage22-bialystok-js-simple-jira",
+    "nameWitOwner": "intive/patronage22-bialystok-js-simple-jira",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "pushedAt": "2023-01-07T19:08:43Z",
+    "starCount": 1,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 0,
+    "homepageUrl": "https://patronage22-szczecin-js.vercel.app/",
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 127861
+      },
+      {
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 146
+      }
+    ],
+    "name": "patronage22_szczecin_js",
+    "nameWitOwner": "intive/patronage22_szczecin_js",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "pushedAt": "2023-01-07T18:19:32Z",
+    "starCount": 0,
+    "topics": []
+  },
+  {
+    "description": null,
+    "forkCount": 1,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [],
+    "name": "Patronage2020-2021-btb",
+    "nameWitOwner": "intive/Patronage2020-2021-btb",
+    "primaryLanguage": null,
+    "pushedAt": "2023-01-06T20:25:52Z",
+    "starCount": 5,
+    "topics": []
+  },
+  {
+    "description": "The JS part of Patronage 2020 project",
+    "forkCount": 2,
+    "homepageUrl": "https://patronage20-js-master.herokuapp.com/",
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 343590
+      },
+      {
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 165
+      },
+      {
+        "color": "#e34c26",
+        "name": "HTML",
+        "size": 469
+      }
+    ],
+    "name": "patronage20-js",
+    "nameWitOwner": "intive/patronage20-js",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "pushedAt": "2023-01-05T08:14:41Z",
+    "starCount": 3,
     "topics": []
   },
   {
@@ -91,7 +252,7 @@
       "color": "#563d7c",
       "name": "CSS"
     },
-    "pushedAt": "2022-12-26T05:04:13Z",
+    "pushedAt": "2023-01-02T05:04:09Z",
     "starCount": 3,
     "topics": [
       {
@@ -99,6 +260,28 @@
         "url": "https://github.com/topics/opensource"
       }
     ]
+  },
+  {
+    "description": null,
+    "forkCount": 0,
+    "homepageUrl": "https://intive.github.io/patronage20-concept/",
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 294
+      }
+    ],
+    "name": "patronage20-concept",
+    "nameWitOwner": "intive/patronage20-concept",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "pushedAt": "2022-12-30T19:44:45Z",
+    "starCount": 6,
+    "topics": []
   },
   {
     "description": null,
@@ -120,189 +303,6 @@
     },
     "pushedAt": "2022-12-23T00:53:31Z",
     "starCount": 2,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 3,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#89e051",
-        "name": "Shell",
-        "size": 85
-      },
-      {
-        "color": "#e34c26",
-        "name": "HTML",
-        "size": 1725
-      },
-      {
-        "color": "#3178c6",
-        "name": "TypeScript",
-        "size": 135695
-      },
-      {
-        "color": "#563d7c",
-        "name": "CSS",
-        "size": 402
-      },
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 75905
-      }
-    ],
-    "name": "patronage22-bialystok-js-simple-jira",
-    "nameWitOwner": "intive/patronage22-bialystok-js-simple-jira",
-    "primaryLanguage": {
-      "color": "#3178c6",
-      "name": "TypeScript"
-    },
-    "pushedAt": "2022-12-15T18:25:16Z",
-    "starCount": 1,
-    "topics": []
-  },
-  {
-    "description": "The JS part of Patronage 2020 project",
-    "forkCount": 2,
-    "homepageUrl": "https://patronage20-js-master.herokuapp.com/",
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 343590
-      },
-      {
-        "color": "#563d7c",
-        "name": "CSS",
-        "size": 165
-      },
-      {
-        "color": "#e34c26",
-        "name": "HTML",
-        "size": 469
-      }
-    ],
-    "name": "patronage20-js",
-    "nameWitOwner": "intive/patronage20-js",
-    "primaryLanguage": {
-      "color": "#f1e05a",
-      "name": "JavaScript"
-    },
-    "pushedAt": "2022-12-10T19:21:51Z",
-    "starCount": 3,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 1,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [],
-    "name": "Patronage2020-2021-btb",
-    "nameWitOwner": "intive/Patronage2020-2021-btb",
-    "primaryLanguage": null,
-    "pushedAt": "2022-12-08T10:55:11Z",
-    "starCount": 5,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 7,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#e34c26",
-        "name": "HTML",
-        "size": 1994
-      },
-      {
-        "color": "#3178c6",
-        "name": "TypeScript",
-        "size": 94275
-      },
-      {
-        "color": "#563d7c",
-        "name": "CSS",
-        "size": 2554
-      },
-      {
-        "color": "#89e051",
-        "name": "Shell",
-        "size": 55
-      }
-    ],
-    "name": "patronage22_lublin_js_cms",
-    "nameWitOwner": "intive/patronage22_lublin_js_cms",
-    "primaryLanguage": {
-      "color": "#3178c6",
-      "name": "TypeScript"
-    },
-    "pushedAt": "2022-12-08T09:42:27Z",
-    "starCount": 2,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 3,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 5895
-      },
-      {
-        "color": "#3178c6",
-        "name": "TypeScript",
-        "size": 179477
-      },
-      {
-        "color": "#e34c26",
-        "name": "HTML",
-        "size": 392
-      }
-    ],
-    "name": "patronage22-web-wroclaw",
-    "nameWitOwner": "intive/patronage22-web-wroclaw",
-    "primaryLanguage": {
-      "color": "#3178c6",
-      "name": "TypeScript"
-    },
-    "pushedAt": "2022-12-08T07:34:26Z",
-    "starCount": 5,
-    "topics": []
-  },
-  {
-    "description": null,
-    "forkCount": 0,
-    "homepageUrl": "https://patronage22-szczecin-js.vercel.app/",
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 127861
-      },
-      {
-        "color": "#563d7c",
-        "name": "CSS",
-        "size": 146
-      }
-    ],
-    "name": "patronage22_szczecin_js",
-    "nameWitOwner": "intive/patronage22_szczecin_js",
-    "primaryLanguage": {
-      "color": "#f1e05a",
-      "name": "JavaScript"
-    },
-    "pushedAt": "2022-12-08T07:33:37Z",
-    "starCount": 0,
     "topics": []
   },
   {
@@ -339,7 +339,7 @@
   },
   {
     "description": "A Flutter plugin for the Adyen Payment Provider DropIn UI",
-    "forkCount": 22,
+    "forkCount": 23,
     "homepageUrl": null,
     "isPrivate": false,
     "languages": [
