@@ -1,5 +1,104 @@
 [
   {
+    "description": "A Flutter plugin for the Adyen Payment Provider DropIn UI",
+    "forkCount": 23,
+    "homepageUrl": null,
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#A97BFF",
+        "name": "Kotlin",
+        "size": 22604
+      },
+      {
+        "color": "#701516",
+        "name": "Ruby",
+        "size": 2977
+      },
+      {
+        "color": "#89e051",
+        "name": "Shell",
+        "size": 542
+      },
+      {
+        "color": "#F05138",
+        "name": "Swift",
+        "size": 11530
+      },
+      {
+        "color": "#438eff",
+        "name": "Objective-C",
+        "size": 385
+      },
+      {
+        "color": "#00B4AB",
+        "name": "Dart",
+        "size": 4585
+      }
+    ],
+    "name": "adyen_flutter",
+    "nameWitOwner": "intive/adyen_flutter",
+    "primaryLanguage": {
+      "color": "#A97BFF",
+      "name": "Kotlin"
+    },
+    "pushedAt": "2023-01-09T09:32:28Z",
+    "starCount": 11,
+    "topics": []
+  },
+  {
+    "description": "intive website about open source initiatives on GitHub",
+    "forkCount": 0,
+    "homepageUrl": "https://opensource.intive.com",
+    "isPrivate": false,
+    "languages": [
+      {
+        "color": "#3572A5",
+        "name": "Python",
+        "size": 4520
+      },
+      {
+        "color": "#e34c26",
+        "name": "HTML",
+        "size": 28099
+      },
+      {
+        "color": "#427819",
+        "name": "Makefile",
+        "size": 252
+      },
+      {
+        "color": "#f1e05a",
+        "name": "JavaScript",
+        "size": 1466
+      },
+      {
+        "color": "#c6538c",
+        "name": "SCSS",
+        "size": 22401
+      },
+      {
+        "color": "#563d7c",
+        "name": "CSS",
+        "size": 44306
+      }
+    ],
+    "name": "opensource-website",
+    "nameWitOwner": "intive/opensource-website",
+    "primaryLanguage": {
+      "color": "#563d7c",
+      "name": "CSS"
+    },
+    "pushedAt": "2023-01-09T05:04:31Z",
+    "starCount": 3,
+    "topics": [
+      {
+        "name": "opensource",
+        "url": "https://github.com/topics/opensource"
+      }
+    ]
+  },
+  {
     "description": null,
     "forkCount": 3,
     "homepageUrl": null,
@@ -210,58 +309,6 @@
     "topics": []
   },
   {
-    "description": "intive website about open source initiatives on GitHub",
-    "forkCount": 0,
-    "homepageUrl": "https://opensource.intive.com",
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#3572A5",
-        "name": "Python",
-        "size": 4520
-      },
-      {
-        "color": "#e34c26",
-        "name": "HTML",
-        "size": 28099
-      },
-      {
-        "color": "#427819",
-        "name": "Makefile",
-        "size": 252
-      },
-      {
-        "color": "#f1e05a",
-        "name": "JavaScript",
-        "size": 1466
-      },
-      {
-        "color": "#c6538c",
-        "name": "SCSS",
-        "size": 22401
-      },
-      {
-        "color": "#563d7c",
-        "name": "CSS",
-        "size": 44306
-      }
-    ],
-    "name": "opensource-website",
-    "nameWitOwner": "intive/opensource-website",
-    "primaryLanguage": {
-      "color": "#563d7c",
-      "name": "CSS"
-    },
-    "pushedAt": "2023-01-02T05:04:09Z",
-    "starCount": 3,
-    "topics": [
-      {
-        "name": "opensource",
-        "url": "https://github.com/topics/opensource"
-      }
-    ]
-  },
-  {
     "description": null,
     "forkCount": 0,
     "homepageUrl": "https://intive.github.io/patronage20-concept/",
@@ -334,54 +381,7 @@
       "name": "TypeScript"
     },
     "pushedAt": "2022-09-23T09:01:24Z",
-    "starCount": 9,
-    "topics": []
-  },
-  {
-    "description": "A Flutter plugin for the Adyen Payment Provider DropIn UI",
-    "forkCount": 23,
-    "homepageUrl": null,
-    "isPrivate": false,
-    "languages": [
-      {
-        "color": "#A97BFF",
-        "name": "Kotlin",
-        "size": 22604
-      },
-      {
-        "color": "#701516",
-        "name": "Ruby",
-        "size": 2977
-      },
-      {
-        "color": "#89e051",
-        "name": "Shell",
-        "size": 542
-      },
-      {
-        "color": "#F05138",
-        "name": "Swift",
-        "size": 11530
-      },
-      {
-        "color": "#438eff",
-        "name": "Objective-C",
-        "size": 385
-      },
-      {
-        "color": "#00B4AB",
-        "name": "Dart",
-        "size": 4585
-      }
-    ],
-    "name": "adyen_flutter",
-    "nameWitOwner": "intive/adyen_flutter",
-    "primaryLanguage": {
-      "color": "#A97BFF",
-      "name": "Kotlin"
-    },
-    "pushedAt": "2022-07-27T14:31:34Z",
-    "starCount": 11,
+    "starCount": 10,
     "topics": []
   },
   {
