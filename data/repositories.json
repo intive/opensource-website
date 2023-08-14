@@ -1,14 +1,14 @@
 [
   {
-    "description": null,
+    "description": "App for documenting memories from Android Guild meetings and parties.",
     "forkCount": 0,
-    "homepageUrl": null,
+    "homepageUrl": "",
     "isPrivate": false,
     "languages": [
       {
         "color": "#A97BFF",
         "name": "Kotlin",
-        "size": 86522
+        "size": 86137
       }
     ],
     "name": "Picover",
@@ -17,7 +17,7 @@
       "color": "#A97BFF",
       "name": "Kotlin"
     },
-    "pushedAt": "2023-08-04T13:29:55Z",
+    "pushedAt": "2023-08-13T10:47:39Z",
     "starCount": 1,
     "topics": []
   },
@@ -64,7 +64,7 @@
       "color": "#563d7c",
       "name": "CSS"
     },
-    "pushedAt": "2023-07-31T05:04:10Z",
+    "pushedAt": "2023-08-07T05:04:14Z",
     "starCount": 3,
     "topics": [
       {
