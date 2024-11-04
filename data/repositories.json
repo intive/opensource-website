@@ -42,7 +42,7 @@
       "color": "#563d7c",
       "name": "CSS"
     },
-    "pushedAt": "2024-10-21T05:05:21Z",
+    "pushedAt": "2024-10-28T05:05:01Z",
     "starCount": 3,
     "topics": [
       {
@@ -304,7 +304,7 @@
   },
   {
     "description": "A Flutter plugin for the Adyen Payment Provider DropIn UI",
-    "forkCount": 26,
+    "forkCount": 25,
     "homepageUrl": null,
     "isPrivate": false,
     "languages": [
